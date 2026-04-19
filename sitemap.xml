@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/index.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Core Service Pages -->
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/emergency-pest-control-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/same-day-exterminator-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/bed-bug-treatment-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/termite-control-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/rodent-control-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/mosquito-control-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Supporting / Intent Pages -->
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/pest-control-cost-nassau-county.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Trust Pages -->
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/about.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/contact.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/privacy-policy.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://pest-control-nassau-county.vercel.app/terms-and-conditions.html</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
